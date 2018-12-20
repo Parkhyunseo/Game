@@ -1,4 +1,4 @@
 # Game
 
 ## Indie Stars
-* [Endless Space](https://github.com/Parkhyunseo/Game.git)
+* [Endless Space](https://github.com/Parkhyunseo/Endless-Space.git)
